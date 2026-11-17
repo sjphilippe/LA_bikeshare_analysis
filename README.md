@@ -22,7 +22,7 @@ Annual Pass: 365 day access
 Between October – December of 2021, monthly riders dominated bike usage with a total of  30,993 riders, followed by  walkups, annual pass and one day passes. 
 One day pass riders accounted for the greatest duration of bike usage with an average ride time of 75 min for one-way trips  and 112 minutes for round trips. 
 
-A notable increase in riders was seen on October 10, 2021 which correlated with the CICLAVIA Heart of LA event. This event closed several miles of street in the center of LA to allow for prestration traffic on roadways. The jump in riders was most noticable in walkup passes and one day passes. Walkup passes increased by 344 rides(112% increase) and one day pass increased by 312(300% increase) compared to the previous day. 
+A notable increase in riders was seen on October 10, 2021 which correlated with the CICLAVIA Heart of LA event. This event closed several miles of street in the center of LA to allow for pedestrian traffic on roadways. The jump in riders was most noticable in walkup passes and one day passes. Walkup passes increased by 344 rides(112% increase) and one day pass increased by 312(300% increase) compared to the previous day. 
 
 ![alt text](https://github.com/sjphilippe/Project1/blob/main/img/RidesOct9-11.jpg?raw=true)
 ![alt text](https://github.com/sjphilippe/Project1/blob/main/img/Oct10.jpg?raw=true)
